@@ -7,7 +7,7 @@ Hi! I’m Yamilett - a rising high school junior from Chicago, Illinois. A passi
 
 I had always been interested in CS, but after taking AP CS A and AP Environmental Science my freshman year of high school, I realized that the latter could be used to develop feasible technologies in order to solve pressing environmental crises. 
 
-In the midst of a Digital Revolution, it is undeniable that technology will be the driving force behind the solutions for issues plaguing contemporary society. o whether I’m creating the next app to clean oil spills or creating a more efficient scrubber system for industrial exhaust steams, my tenacity for inflicting change fused with the knowledge I acquire along the way will strengthen my skill set and allow me to revolutionize the world. 🚀
+In the midst of a Digital Revolution, it is undeniable that technology will be the driving force behind the solutions for issues plaguing contemporary society. So whether I’m creating the next app to clean oil spills or creating a more efficient scrubber system for industrial exhaust steams, my tenacity for inflicting change fused with the knowledge I acquire along the way will strengthen my skill set and allow me to revolutionize the world. 🚀
 
 ## Fun Facts: 💃
 • I will be interning as a SEES intern @ NASA + research intern @ the Peggy Notebaert Nature Museum this summer! 🌿
