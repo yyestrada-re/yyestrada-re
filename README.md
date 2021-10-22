@@ -3,7 +3,7 @@
 **yyestrada-re/yyestrada-re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ### 🌿 Computer Science + Sustainability
 
-Hi! I’m Yamilett - a rising high school junior from Chicago, Illinois. A passionate software developer at heart, I leverage the intersection between CS and environmental science in order to create a more sustainable and environmentally-conscious society.
+Hi! I’m Yamilett - a high school senior from Chicago, Illinois. A passionate software developer at heart, I leverage the intersection between CS and environmental science in order to create a more sustainable and environmentally-conscious society.
 
 I had always been interested in CS, but after taking AP CS A and AP Environmental Science my freshman year of high school, I realized that the latter could be used to develop feasible technologies in order to solve pressing environmental crises. 
 
